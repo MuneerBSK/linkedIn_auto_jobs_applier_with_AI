@@ -13,22 +13,19 @@ jobTypes:
   contract: false
   part-time: false
   temporary: true
-  internship: true
+  internship: false
   other: false
   volunteer: true
 
 date:
-  all time: true
-  month: dec
-  week: first
+  all time: false
+  month: true
+  week: false
   24 hours: true
 
 positions:
-  - DevOps Engineer
-  - Cloud Engineer
-  - AWS CLoud Engineer
-  - Azure DevOps Engineer
-  - AWS DevOps Engineer
+  - Software Tester
+
 
 locations:
   - USA

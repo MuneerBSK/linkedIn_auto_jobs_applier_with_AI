@@ -1,7 +1,7 @@
 remote: [true/false]
 
 experienceLevel:
- internship: [true/false]
+ internship: [true]
  entry: [true/false]
  associate: [true/false]
  mid-senior level: [true/false]
